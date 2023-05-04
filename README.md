@@ -1,7 +1,5 @@
-<div align="center">
-    <h1>Hello world! 😊</h1>
-    <h2>.NET developer</h2>
-</div>
+<h1 align="center">Hello world! 😊</h1>
+<h2 align="center">.NET developer</h2>
 
 Hi! You won't believe me but i'm a developer. 🤪
 
