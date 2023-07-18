@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! 😊</h1>
 <h2 align="center">.NET developer</h2>
 
-Hi! You won't believe me but i'm a developer. 🤪
+Hi! I'm a .NET developer who loves to learn and create new things.
 
 ## Stats ⭐
 
